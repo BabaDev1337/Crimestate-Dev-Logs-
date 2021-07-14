@@ -12,3 +12,4 @@
 + cleared Database
 + removed Maps 
 + updated Jobs
++ removed Cars
