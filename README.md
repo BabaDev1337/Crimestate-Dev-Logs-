@@ -3,6 +3,7 @@
 **17.04.2021**
 
 + removed Paleto 24/7 Shop
-+ addet esx_billing
-+ addet Benny´s
++ added esx_billing
++ added Benny´s
 + removed Scripts 
++
