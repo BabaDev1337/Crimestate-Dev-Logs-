@@ -11,3 +11,4 @@
 + removed Banlist
 + cleared Database
 + removed Maps 
++ added Nachtclub MLO
