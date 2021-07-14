@@ -9,3 +9,4 @@
 + dev update
 + fixed Scoreboard
 + removed Banlist
++ cleared Database
