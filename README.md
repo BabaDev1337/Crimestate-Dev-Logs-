@@ -1,6 +1,6 @@
 # Crimestate (dev logs)
 
-**17.04.2021**
+**14.07.2021**
 
 + removed Paleto 24/7 Shop
 + addet esx_billing
