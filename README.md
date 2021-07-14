@@ -17,4 +17,4 @@
 + added Carhud
 + added Playerhud
 + added Banking
-+ added Shop
++ created Banner [FiveM Server Banner]
