@@ -14,4 +14,4 @@
 + updated Jobs
 + removed Cars
 + added Loadingscreen
-+ removed Map [LS Costums]
++ removed Map [LS Customs]
