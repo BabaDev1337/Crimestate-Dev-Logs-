@@ -1,5 +1,10 @@
 # Crimestate (dev logs)
 
+**15.07.2021**
+
+
+
+
 **14.07.2021**
 
 + removed Paleto 24/7 Shop
