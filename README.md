@@ -15,4 +15,4 @@
 + removed Cars
 + added Loadingscreen
 + added Carhud
-+ added Playerhud
++ added Bot [TxAdmin Status]
