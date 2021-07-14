@@ -3,7 +3,7 @@
 **17.04.2021**
 
 + removed Paleto 24/7 Shop
-+ addet something
++ addet esx_billing
 + addet UI - Shop
 + madara s
 
