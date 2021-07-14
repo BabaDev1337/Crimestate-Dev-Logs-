@@ -10,4 +10,4 @@
 + fixed Scoreboard
 + removed Banlist
 + cleared Database
-+ added routen
++ removed Maps 
