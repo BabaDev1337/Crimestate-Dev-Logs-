@@ -23,3 +23,4 @@
 + added Menu [Personalmenu]
 + added TXAdmin
 + designed esx_scoreboard
++ learned blueface Developing
