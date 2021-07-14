@@ -2,8 +2,8 @@
 
 **17.04.2021**
 
-+ removed Paleto 24/7 Shop
-+ addet esx_billing
-+ addet Benny´s
-+ 
-
++ addet club
++ addet something
++ addet UI - Shop
++ addet Identity 
++ removed Scripts
