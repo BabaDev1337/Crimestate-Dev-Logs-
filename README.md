@@ -15,4 +15,5 @@
 + removed Cars
 + added Loadingscreen
 + added Carhud
-+ added Bot [TxAdmin Status]
++ added Playerhud
++ added Banking
