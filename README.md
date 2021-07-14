@@ -1,4 +1,4 @@
-# Crimestate-dev-log
+# Crimestate-dev-log-
 
 **17.04.2021**
 
@@ -11,5 +11,4 @@
 + removed Banlist
 + cleared Database
 + removed Maps 
-+ added Nachtclub MLO
-+ +added Stripclub MLO
++ updated Jobs
