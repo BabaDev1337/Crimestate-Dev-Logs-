@@ -19,3 +19,4 @@
 + added Banking
 + added Shop
 + added Gas Station
++ added COPNET  
