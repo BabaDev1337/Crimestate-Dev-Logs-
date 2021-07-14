@@ -12,3 +12,4 @@
 + cleared Database
 + removed Maps 
 + added Nachtclub MLO
++ +added Stripclub MLO
