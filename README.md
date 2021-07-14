@@ -13,5 +13,4 @@
 + removed Maps 
 + updated Jobs
 + removed Cars
-+ added Map [Gabz MR PD]
-+ added Chat [changed HTML] 
++ added Loadingscreen
