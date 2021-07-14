@@ -2,7 +2,8 @@
 
 **17.04.2021**
 
-+ addet club
++ removed Paleto 24/7 Shop
 + addet something
 + addet UI - Shop
-+ addet Identity 
++ madara s
+
