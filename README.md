@@ -8,6 +8,7 @@
 + removed esx_cruisecontrol
 + added discord logs
 + added Script [Antiwaffenschlag]
++ added Impound
 
 
 **14.07.2021**
