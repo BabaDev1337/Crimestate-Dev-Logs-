@@ -7,6 +7,7 @@
 + added Emotes [dp + png]
 + removed esx_cruisecontrol
 + added discord logs
++ added Script [Antiwaffenschlag]
 
 
 **14.07.2021**
