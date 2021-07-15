@@ -9,7 +9,7 @@
 + added discord logs
 + added Script [Antiwaffenschlag]
 + added Impound
-
++ added FFA
 
 **14.07.2021**
 
