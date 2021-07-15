@@ -6,6 +6,7 @@
 + added Blacklist [Weapons]
 + added Emotes [dp + png]
 + removed esx_cruisecontrol
++ added discord logs
 
 
 **14.07.2021**
