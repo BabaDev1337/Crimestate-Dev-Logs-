@@ -3,7 +3,7 @@
 **15.07.2021**
 
 + added Blacklist
-
++ added Blacklist [Weapons]
 
 
 **14.07.2021**
