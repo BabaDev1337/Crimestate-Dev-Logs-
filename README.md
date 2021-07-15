@@ -5,6 +5,7 @@
 + added Blacklist
 + added Blacklist [Weapons]
 + added Emotes [dp + png]
++ removed esx_cruisecontrol
 
 
 **14.07.2021**
