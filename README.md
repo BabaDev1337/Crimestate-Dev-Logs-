@@ -2,6 +2,7 @@
 
 **15.07.2021**
 
++ redesigned UI 
 + added Blacklist
 + added Blacklist [Weapons]
 + added Emotes [dp + png]
