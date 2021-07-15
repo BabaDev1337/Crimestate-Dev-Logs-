@@ -2,6 +2,7 @@
 
 **15.07.2021**
 
++ added Script [Lifeinvader]
 + redesigned UI 
 + added Blacklist
 + added Blacklist [Weapons]
