@@ -1,5 +1,11 @@
 # Crimestate (dev logs)
 
+**23.07.2021**
+
++removed turn engine off with z
+
+
+
 **15.07.2021**
 
 +made FFA useful
